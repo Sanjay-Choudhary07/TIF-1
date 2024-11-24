@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         pinkish: "#E23744",
         blueish: "#0E2368",
+        lightGray: '#f8f8f8'
       },
       fontFamily: {
         open: ["Open Sans", "sans-serif"],

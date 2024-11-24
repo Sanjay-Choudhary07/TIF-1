@@ -28,7 +28,7 @@ const Header = () => {
       </header>
       <main className="lg:w-10/12 mx-auto">
         <section className="lg:w-[30%] lg:h-screen flex flex-col justify-center items-center lg:items-start text-center lg:text-left">
-          <h1 className="font-bold text-4xl lg:text-6xl">
+          <h1 className="font-bold text-5xl lg:text-6xl">
             Discover the <span className="text-pinkish">Best</span> Food and Drinks
           </h1>
           <p className="my-10 lg:w-11/12 w-8/12 text-sm lg:text-base">
